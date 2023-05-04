@@ -1,0 +1,11 @@
+---
+
+- name: Mon premier playbook
+  connection: ssh
+  hosts: mes_machines
+  remote_user: tom
+
+  tasks:
+
+    - name: Ping the system
+      ansible.builtin.ping:
