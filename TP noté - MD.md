@@ -41,6 +41,7 @@ La branche courante et main et pour avoir cette information il faut entrer la co
 - Copier ce fichier avec les réponses de la première partie à la racine du dépôt de code (aucune réponse attendue à cette étape).
 - Ajouter une première version de ce fichier dans le dépôt local.
 - Vérifer que ce fichier a été correctement ajouté au dépôt (par la ligne de commandes git).
+Avec la commande "git log"
 - Synchroniser le dépôt distant pour y intégrer les changements du dépôt local.
 
 ## Branche `ansible` (2 pts)
